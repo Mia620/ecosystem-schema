@@ -1,0 +1,40 @@
+uuid: "59781d0f-f40a-4515-922c-3508da771927"
+label: "malteses-fluffy-onsen"
+meta:
+  displayName: "Maltese's Fluffy Onsen"
+distributions: []
+thunderstore:
+  displayName: "Maltese's Fluffy Onsen"
+  categories:
+    mods:
+      label: "Mods"
+    modpacks:
+      label: "Modpacks"
+    tools:
+      label: "Tools"
+    libraries:
+      label: "Libraries"
+    misc:
+      label: "Misc"
+    music:
+      label: "Music"
+    maps:
+      label: "Maps"
+    deco:
+      label: "Decorations"
+    employees:
+      label: "Employees"
+    guests:
+      label: "Guests"
+  sections:
+    mods:
+      name: "Mods"
+      excludeCategories:
+        - "modpacks"
+    modpacks:
+      name: "Modpacks"
+      requireCategories:
+        - "modpacks"
+  wikiUrl: "https://gldym.github.io/posts/Animal-Spa-En/"
+  discordUrl: ""
+  autolistPackageIds: []
